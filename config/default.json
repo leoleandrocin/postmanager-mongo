@@ -1,0 +1,3 @@
+{
+    "DBHost": "mongodb+srv://admin:admin@postmanagercluster-2xduj.mongodb.net/test?retryWrites=true&w=majority"
+}
